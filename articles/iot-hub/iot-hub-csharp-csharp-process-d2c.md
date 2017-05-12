@@ -223,5 +223,5 @@ To learn more about message routing in IoT Hub, see [Send and receive messages w
 [Build multi-tier applications with Service Bus]: ../service-bus-messaging/service-bus-dotnet-multi-tier-app-using-service-bus-queues.md
 
 [lnk-classic-portal]: https://manage.windowsazure.com
-[lnk-c2d]: iot-hub-csharp-csharp-process-d2c.md
+[lnk-c2d]: iot-hub-csharp-csharp-c2d.md
 [lnk-suite]: https://azure.microsoft.com/documentation/suites/iot-suite/
